@@ -1,0 +1,3 @@
+[submodule "kraken"]
+	path = kraken
+	url = https://gerrit.wikimedia.org/r/analytics/kraken
