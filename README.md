@@ -1,3 +1,14 @@
+# DEPRECATED
+
+THIS REPO IS DEPRECATED.
+
+PLEASE SEE
+
+* https://gerrit.wikimedia.org/r/#/admin/projects/analytics/refinery
+* https://gerrit.wikimedia.org/r/#/admin/projects/analytics/refinery/source
+
+INSTEAD.
+
 # kraken-deploy
 
 Deployment repository for
